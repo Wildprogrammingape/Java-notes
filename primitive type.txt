@@ -1,0 +1,25 @@
+In Java, every variable has a type declared in the source code. There are two kinds of types: reference types and primitive types. Reference types are references to objects. Primitive types directly contain values. There are 8 primitive types:
+
+byte
+short
+int
+long
+char
+float
+double
+boolean
+
+
+
+
+
+e.g:
+
+Primitive types in Java are none-class types. They only store values.
+
+double d = 3.0;
+d.intValue();  //compiler error!
+Double d2 = new Double(3.0);
+d2.intValue();  //works!
+
+d is prilimitive type, while d2 is reference type
