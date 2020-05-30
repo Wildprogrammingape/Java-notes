@@ -1,0 +1,29 @@
+1. guru : 大师，= master
+Arrays come up very often in interview problems, and so being a guru with them is a must!
+
+2.snippet 片段  = piece = extract
+This Card is beginner friendly, and we've provided lots of code snippets in Java to help you understand.
+
+3.subtle 微妙的 = delicate
+These hints will be subtle enough to set you on a particular path for reaching the optimized solution, without giving away the answer too easily.
+
+4.analogous 类似的 = akin=similar        analog 类比  
+It's exactly the same with the Array, where the space in your home is analogous to memory on the computer.
+
+5.primitive 原始的
+The two most primitive Array operations are writing elements into them, and reading elements from them.
+
+6.slot 插槽
+Java always initializes empty Array slots to null if the Array contains objects, or to default values if it contains primitive types.
+For example, the array int [] would contain the default value of 0 for each element, float[] would contain default values of 0.0, and bool[] would contain default values of false.
+
+7.even number 偶数
+
+8.vacant spot 空的点
+If we want to delete the first element of the Array, that will create a vacant spot at the 0th index.
+
+9.ripple 波纹
+Going by the ripple effect, every element all the way to the last one will be shifted one place to the left.
+
+10.cement 巩固= bond
+To help you cement what you've learned, here's a couple of programming problems for you to try.
