@@ -1,0 +1,5 @@
+Two visibility modifiers: public and private
+
+Public: When you declare something, whether it is a class, field, method, or constructor as public it means that any code, anywhere in your program can access that thing. Code from any class can call a public method, read or update a public field, use a public constructor when making an object, and make use of a public class.
+
+Private: By contrast, when you declare something private, it tells Java that only code inside of this particular class can see the thing you declare private.
