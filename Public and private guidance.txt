@@ -1,0 +1,11 @@
+As you start to think about designing your own classes, there are a few general pieces of guidance to get you started on how to choose public or private. 
+
+First, fields are generally part of the implementation of an object. So they typically should be private.
+
+For methods it depends on what the purpose of the method is. If the method is part of the interface you want your class to have, that is part of the behaviors you want it to provide to other pieces of code, you should declare that method public.
+
+On the other hand, some methods are helpers. You array them to abstract out specific complex tasks which are not meant for other classes to call. They just help accomplish the public interface. These methods should be private so that only the code in your class can call them. 
+
+For classes, you should always declare them public.
+
+For constructors, you should always make these public for now. Typically, constructors are part of the public interface of a class. They specify how to make an instance. 
