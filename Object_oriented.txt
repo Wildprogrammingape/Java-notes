@@ -1,0 +1,1 @@
+You have Data and it's associated functionality which is called a class which is like a template. From that class you then create an object. So an object is an instance of a class.
