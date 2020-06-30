@@ -1,0 +1,3 @@
+equals is used for Object comparison, where you want to verify if two Objects have an identical value.
+
+== for reference comparison (are the two Objects the same Object on the heap) & to check if the Object is null. It is also used to compare the values of primitive types.
