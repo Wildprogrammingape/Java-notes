@@ -1,0 +1,4 @@
+Map is interface and Hashmap is a class that implements Map Interface
+
+map: 接口
+hashmap： map的一种
