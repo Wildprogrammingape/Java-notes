@@ -1,0 +1,11 @@
+1.Java后端自学之路：https://blog.csdn.net/JusticeOfHeaven/article/details/79295587?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
+
+2.博客搭建详解教程（不同语言和框架的对比） https://doowzs.com/blog/2020-01-08-blog-tutorial/
+
+3.
+
+我总结搭建博客的三个途径：
+1. Hexo框架搭建静态博客（基于node.js语言），是当前最流行最方便的博客搭建方式
+2. Express+Mongodb搭建动态博客(express是基于node.js的框架，mongodb是数据库)
+3. Java的话，Spring Springmvc Mybatis(Java的ssm框架)+Bootstrap(非常简单的前端框架)+ HTML(前端标记语言) + JQuery(Javascript框架) + MySQL(数据库) 搭建博客
+总的来讲，大部分人都会使用hexo搭建静态博客，然后可以开发一个基于hexo的后台管理。用Java来写纯粹是用来练习ssm框架，搭建博客有点大象踩蚂蚁的感觉。
